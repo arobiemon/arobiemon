@@ -6,7 +6,7 @@
 <div align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </div>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 
 <br/>
  
