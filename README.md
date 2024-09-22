@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/018f060d-91f8-4faf-a3c1-5b0f143e881d.svg)](https://wakatime.com/018f060d-91f8-4faf-a3c1-5b0f143e881d)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=arobiemon.arobiemon" />
 
  
@@ -26,7 +27,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue,react,bootstrap,html,css,vscode,github,figma,git,r" width="70%" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask"  width="70%" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql"  width="70%" /><br>
     
 </div>
 
